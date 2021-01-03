@@ -1,0 +1,9 @@
+ul {
+  list-style: none;
+}
+
+#iss {
+  background: url(iss.jpeg) no-repeat;
+  color: white;
+  background-size: cover;
+}
